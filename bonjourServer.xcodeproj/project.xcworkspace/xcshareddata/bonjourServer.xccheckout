@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>94D830F0-4FBD-453C-B0A7-43E19CD72BF3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>bonjourServer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B243FCA-816F-49AC-A388-8591D64DBD17</key>
+		<string>https://projectknave.googlecode.com/svn/trunk/demos/Box2d%20Contour/src</string>
+		<key>3EDACAA8-0260-4CBD-AA6D-94B87D27A22A</key>
+		<string>ssh://git.media.mit.edu/r/thaw/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>thaw_server/bonjourServer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B243FCA-816F-49AC-A388-8591D64DBD17</key>
+		<string>../../../../../addons/ofxBox2d/example-CustomData/src</string>
+		<key>3EDACAA8-0260-4CBD-AA6D-94B87D27A22A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>0B243FCA-816F-49AC-A388-8591D64DBD17</key>
+		<string>https://projectknave.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.media.mit.edu/r/thaw/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3EDACAA8-0260-4CBD-AA6D-94B87D27A22A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B243FCA-816F-49AC-A388-8591D64DBD17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>src</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3EDACAA8-0260-4CBD-AA6D-94B87D27A22A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>thaw</string>
+		</dict>
+	</array>
+</dict>
+</plist>

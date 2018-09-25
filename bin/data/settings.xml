@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GAME>
+  <MAP>
+    <PLAYERS>
+      <PLAYER_1>
+        <X>0</X>
+        <Y>0</Y>
+        <SPRITESHEET>bear.png</SPRITESHEET>
+        <ROWS>4</ROWS>
+        <COLUMNS>4</COLUMNS>
+        <HEIGHT>54</HEIGHT>
+        <WIDTH>57</WIDTH>
+        <ANIMLENGTH>250</ANIMLENGTH>
+        <IDLECOL>1</IDLECOL>
+      </PLAYER_1>
+      <PLAYER_2>
+        <X>100</X>
+        <Y>0</Y>
+        <SPRITESHEET>luigi_big.png</SPRITESHEET>
+        <ROWS>4</ROWS>
+        <COLUMNS>4</COLUMNS>
+        <HEIGHT>36</HEIGHT>
+        <WIDTH>38</WIDTH>
+        <ANIMLENGTH>250</ANIMLENGTH>
+        <IDLECOL>1</IDLECOL>
+      </PLAYER_2>
+    <ENEMY_1>
+        <X>0</X>
+        <Y>0</Y>
+        <SPRITESHEET>classic_goomba_big.png</SPRITESHEET>
+        <ROWS>4</ROWS>
+        <COLUMNS>1</COLUMNS>
+        <HEIGHT>27</HEIGHT>
+        <WIDTH>30</WIDTH>
+        <ANIMLENGTH>250</ANIMLENGTH>
+        <IDLECOL>2</IDLECOL>
+      </ENEMY_1>
+    </PLAYERS>
+  </MAP>
+</GAME>
